@@ -1,8 +1,8 @@
-# ✈️ ConnectFlight - Landing Page
+#  ConnectFlight - Landing Page
 
 Este projeto é uma atividade avaliativa da disciplina de **Programação para WEB II** da **Unitins**. O objetivo foi recriar uma landing page de viagens baseada em um protótipo do Figma e implementar rotas de navegação usando React.
 
-## 📝 Sobre o Projeto
+##  Sobre o Projeto
 
 A aplicação é uma página inicial para a marca fictícia "ConnectFlight", onde o usuário pode ver uma chamada principal e navegar pelo rodapé para outras seções do site.
 
@@ -11,14 +11,14 @@ A aplicação é uma página inicial para a marca fictícia "ConnectFlight", ond
 * **Rotas:** Navegação funcional para as páginas "Destinos", "Ofertas" e "Contato" (que não existiam no protótipo original e foram criadas como extra).
 * **Responsividade:** Ajustes visuais básicos.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * React (Vite)
 * Javascript (JSX)
 * CSS / Styled Components
 * React Router Dom (para navegação)
 
-## 🚀 Como rodar o projeto
+##  Como rodar o projeto
 
 1.  **Clone o repositório:**
     ```bash
@@ -41,6 +41,6 @@ A aplicação é uma página inicial para a marca fictícia "ConnectFlight", ond
     ```
 
 ---
-**Aluno:** [Seu Nome Aqui]
+**Aluno:** Arnaldo Bezerra de Araujo Junior
 **Professor:** Bruno Bandeira Fernandes
 **Disciplina:** Programação Web II - 4º Período
