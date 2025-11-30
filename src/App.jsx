@@ -1,11 +1,12 @@
-import './App.css'
+import Header from './components/Header'; // Importando o componente
 
 function App() {
   return (
     <div>
-      <h1>Olá Mundo</h1>
+      <Header />
+      {/* Depois a gente coloca o Main e o Footer aqui */}
+      <p>Aqui vai entrar o conteúdo principal...</p>
     </div>
-  )
+  );
 }
-
-export default App
+export default App;

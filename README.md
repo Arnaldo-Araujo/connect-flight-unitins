@@ -27,7 +27,7 @@ A aplicação é uma página inicial para a marca fictícia "ConnectFlight", ond
 
 2.  **Entre na pasta:**
     ```bash
-    cd nome-do-projeto
+    cd connect-flight-unitins
     ```
 
 3.  **Instale as dependências:**
