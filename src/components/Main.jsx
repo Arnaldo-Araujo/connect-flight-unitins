@@ -1,11 +1,14 @@
-import React from 'react';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from '../App'
+import '../App.css'
 
 function Main() {
     return (
         <main>
             {/* Vamos deixar um espaço para a imagem aqui */}
             <div className="illustration">
-                <img src="https://placehold.co/400x300?text=Viajante" alt="Ilustração Viajante" />
+                <img className="imagem_grande" src="https://myshoman.com/assets/img/shoman-global.svg" alt="Ilustração Viajante" />
             </div>
 
             <div className="content">
